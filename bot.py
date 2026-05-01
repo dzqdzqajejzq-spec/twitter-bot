@@ -17,6 +17,12 @@ NITTER_INSTANCES = [
     "https://nitter.mint.lgbt",
     "https://nitter.lucabased.xyz",
     "https://nitter.tiekoetter.com",
+    "https://nitter.privacydev.net",
+    "https://nitter.woodland.cafe",
+    "https://nitter.1d4.us",
+    "https://nitter.it",
+    "https://nitter.nl",
+    "https://nitter.net",
 ]
 
 def load_seen():
