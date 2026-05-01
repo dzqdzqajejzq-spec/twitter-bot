@@ -13,10 +13,10 @@ CHECK_INTERVAL = 20  # secondes entre chaque vérification
 SEEN_FILE = "seen.json"
 
 NITTER_INSTANCES = [
-    "https://nitter.privacydev.net",
     "https://nitter.poast.org",
-    "https://nitter.woodland.cafe",
-    "https://nitter.net",
+    "https://nitter.mint.lgbt",
+    "https://nitter.lucabased.xyz",
+    "https://nitter.tiekoetter.com",
 ]
 
 def load_seen():
